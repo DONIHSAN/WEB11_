@@ -37,7 +37,7 @@ Folder 'template' berisi file ``header.php``, ``footer.php``, ``sidebar.php.``
 
 ## 4. Copy File Library (class) dari Praktikum 10 dan Letakkan Pada Folder 'class'
 
-File library (class) yang dimaksud adalah file ``database.php`` dan ``form.php`` dari praktikum 10. File-file tersebut berisi kelas Database dan Form yang akan digunakan dalam praktikum ini.
+File library (class) yang dimaksud adalah file ``database.php`` dan ``form.php`` dari **praktikum 10.** File-file tersebut berisi kelas Database dan Form yang akan digunakan dalam praktikum ini.
 
 ***Library*** adalah kumpulan kode yang dapat digunakan kembali untuk berbagai keperluan. Dalam praktikum ini, library yang digunakan adalah library database dan form. Library database menyediakan fungsi-fungsi untuk mengakses database, sedangkan library form menyediakan fungsi-fungsi untuk membuat dan memproses form.
 
