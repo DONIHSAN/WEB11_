@@ -13,29 +13,29 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](screenshot/Home%20Screen%20VSC.png)
 
-### Start Apache dan MySQL server dari menu XAMPP Control
+## Start Apache dan MySQL server dari menu XAMPP Control
 
 ![](screenshot/XAMPP%20Control%20Panel.png)
 
-## Membuat Folder 'class'
+## 1. Membuat Folder 'class'
 
 Folder 'class' berisi file ``config.php``, ``database.php``, ``form_input.php``, ``form.php``, ``mobil.php.``
 
 ![](screenshot/ss1.png)
 
-## Membuat Folder 'module'
+## 2. Membuat Folder 'module'
 
 Didalam Folder 'module' terdapat sebuah folder lagi yg bernama 'artikel' yang berisi file ``home.php``, ``tambah.php``, ``ubah.php`` dll ....
 
 ![](screenshot/ss2.png)
 
-## Membuat Folder 'template'
+## 3. Membuat Folder 'template'
 
 Folder 'template' berisi file ``header.php``, ``footer.php``, ``sidebar.php.``
 
 ![](screenshot/ss3.png)
 
-## Copy File Library (class) dari Praktikum 10 dan Letakkan Pada Folder 'class'
+## 4. Copy File Library (class) dari Praktikum 10 dan Letakkan Pada Folder 'class'
 
 File library (class) yang dimaksud adalah file ``database.php`` dan ``form.php`` dari praktikum 10. File-file tersebut berisi kelas Database dan Form yang akan digunakan dalam praktikum ini.
 
